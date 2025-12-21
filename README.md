@@ -30,7 +30,8 @@ Tracking my journey to becoming a Full-Stack Developer
 - Build first CLI tool
 
 
-**Project 2 - December 20, 2025 **
+
+**Project 2 - December 20, 2024**
 ✅ Built quote generator CLI
 ✅ JavaScript fundamentals refresher (arrays, objects, functions)
 ✅ Learned logical operators (!, &&, ||)
