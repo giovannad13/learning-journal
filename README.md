@@ -11,7 +11,7 @@ Tracking my journey to becoming a Full-Stack Developer
 
 ### December 2024 - Week 1: Development Environment Setup
 
-**Day 1 - December 15, 2024**
+**Project 1 - December 15, 2024**
 ✅ Installed Homebrew (v5.0.5)
 ✅ Installed Node.js (v25.2.1) and npm (v11.6.2)
 ✅ Configured Git with GitHub
@@ -28,3 +28,18 @@ Tracking my journey to becoming a Full-Stack Developer
 **Next Steps:**
 - JavaScript fundamentals review
 - Build first CLI tool
+
+
+**Project 2 - December 20, 2025 **
+✅ Built quote generator CLI
+✅ JavaScript fundamentals refresher (arrays, objects, functions)
+✅ Learned logical operators (!, &&, ||)
+✅ Built Todo CLI app with CRUD operations
+✅ Debugged syntax errors
+✅ Pushed 2 new projects to GitHub
+
+**Key Learnings:**
+- Array methods: forEach, push, filter
+- Arrow functions and template literals
+- Objects and array of objects pattern
+- Terminal navigation feels natural now
