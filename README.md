@@ -44,3 +44,26 @@ Tracking my journey to becoming a Full-Stack Developer
 - Arrow functions and template literals
 - Objects and array of objects pattern
 - Terminal navigation feels natural now
+
+
+
+
+
+## Week 1 Complete! (Jan 28 - Feb 3, 2026)
+
+### Projects Completed:
+- ✅ Quote Generator CLI
+- ✅ Todo CLI App (8 features: CRUD + filtering + priorities)
+
+### Skills Learned:
+- Terminal navigation and Git workflow
+- JavaScript fundamentals (variables, functions, arrays, objects)
+- Array methods (forEach, filter, push, map)
+- Arrow functions and template literals
+- Logical operators and conditionals
+- Problem-solving and debugging
+
+### Key Wins:
+- Debugged errors independently
+- Understanding code structure and logic
+- Daily coding habit established
